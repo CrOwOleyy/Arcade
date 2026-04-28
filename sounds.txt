@@ -1,0 +1,5 @@
+Super Paper Mario Music River Twygz Bed.mp3 - OST de base
+pause_end.wav - son de fin de pause
+select.wav - son de sélection dans le menu quand on choisi le jeu
+pause_start.wav - son de début de pause
+select_game.wav - son quand on sélectionne un jeu

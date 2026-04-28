@@ -1,0 +1,5 @@
+*.o
+arcade
+*.so
+minesweeper_scores.txt
+snake_scores.txt
